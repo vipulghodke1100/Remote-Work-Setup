@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Monitor and Docking Station RWS">b40ad6f6936097107d67398efaba10c0</catalog_item>
+        <catalog_variable>IO:12cc16f6936097107d67398efaba1040</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-18 06:36:38</sys_created_on>
+        <sys_id>00ef5ab293a097107d67398efaba1032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>justify_requirements</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_00ef5ab293a097107d67398efaba1032</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 06:36:38</sys_updated_on>
+        <table/>
+        <ui_policy display_value="make Additional req visible">1eaf523293a097107d67398efaba10e9</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>justify_requirements</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=00ef5ab293a097107d67398efaba1032"/>
+</record_update>

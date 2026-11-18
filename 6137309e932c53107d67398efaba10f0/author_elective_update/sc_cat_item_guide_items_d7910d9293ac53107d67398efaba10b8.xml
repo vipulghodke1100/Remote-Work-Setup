@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="DELETE">
+        <condition/>
+        <guide display_value="Copy of Project Team Provisioning">9b910d9293ac53107d67398efaba1063</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Collaboration Channel">a6e237a3c3a247504a2adf0d05013149</item>
+        <order/>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:51</sys_created_on>
+        <sys_id>d7910d9293ac53107d67398efaba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a6e237a3c3a247504a2adf0d05013149</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_d7910d9293ac53107d67398efaba10b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:27:51</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</application>
+        <file_path/>
+        <instance_id>9a6acd06fb2857d80c92f633beefdcb6</instance_id>
+        <instance_name>dev483620</instance_name>
+        <merge_base/>
+        <name>sc_cat_item_guide_items_d7910d9293ac53107d67398efaba10b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items"><sc_cat_item_guide_items action="INSERT_OR_UPDATE"><condition/><guide display_value="Copy of Project Team Provisioning">9b910d9293ac53107d67398efaba1063</guide><ignore_mandatory_eval>false</ignore_mandatory_eval><item display_value="Collaboration Channel">a6e237a3c3a247504a2adf0d05013149</item><order/><quantity>1</quantity><requested_by/><requested_for/><show_quantity>false</show_quantity><sys_class_name>sc_cat_item_guide_items</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-16 10:27:51</sys_created_on><sys_id>d7910d9293ac53107d67398efaba10b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a6e237a3c3a247504a2adf0d05013149</sys_name><sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package><sys_policy/><sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope><sys_update_name>sc_cat_item_guide_items_d7910d9293ac53107d67398efaba10b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-16 10:27:51</sys_updated_on><use_sc_layout>true</use_sc_layout></sc_cat_item_guide_items></record_update>]]></payload>
+        <payload_hash>5576451</payload_hash>
+        <record_name>a6e237a3c3a247504a2adf0d05013149</record_name>
+        <reverted_from/>
+        <source>8e7e3456932c53107d67398efaba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:51</sys_created_on>
+        <sys_id>17910d9293ac53107d67398efaba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1e3e61ef40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:27:51</sys_updated_on>
+        <type>Rule</type>
+        <update_guid>d3910d9212ac5310be11449c1ff704bd</update_guid>
+        <update_guid_history>d3910d9212ac5310be11449c1ff704bd:5576451</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Collaboration Channel">00beda2a936417107d67398efaba102c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 11:52:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide_items">sc_cat_item_guide_items</sys_db_object>
+        <sys_id>40f6cdfa669b4e05b69010dff70ed5d1</sys_id>
+        <sys_metadata>d7910d9293ac53107d67398efaba10b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a6e237a3c3a247504a2adf0d05013149</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_scope_delete display_value="">5b5a87e9ba6741188a43d18ac2d22529</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_items_d7910d9293ac53107d67398efaba10b8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_items_d7910d9293ac53107d67398efaba10b8">17910d9293ac53107d67398efaba10be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 11:52:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

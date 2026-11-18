@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Laptop Request RWS">d0a08d6693a8d3107d67398efaba107a</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 06:52:02</sys_created_on>
+        <sys_id>bbc95de6936cd3107d67398efaba100a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Can We Help You?.Laptop Request </sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_category_bbc95de6936cd3107d67398efaba100a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 06:52:12</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

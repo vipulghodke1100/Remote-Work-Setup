@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Copy of Project Team Provisioning">e191899293ac53107d67398efaba10c5</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:44</sys_created_on>
+        <sys_id>ad91899293ac53107d67398efaba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>project team provisioining variables.Copy of Project Team Provisioning</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>io_set_item_ad91899293ac53107d67398efaba10ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:27:44</sys_updated_on>
+        <variable_set display_value="project team provisioining variables">2e0eb142c38703504a2adf0d0501312e</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</application>
+        <file_path/>
+        <instance_id>9a6acd06fb2857d80c92f633beefdcb6</instance_id>
+        <instance_name>dev483620</instance_name>
+        <merge_base/>
+        <name>io_set_item_ad91899293ac53107d67398efaba10ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Copy of Project Team Provisioning">e191899293ac53107d67398efaba10c5</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-16 10:27:44</sys_created_on><sys_id>ad91899293ac53107d67398efaba10ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>project team provisioining variables.Copy of Project Team Provisioning</sys_name><sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package><sys_policy/><sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope><sys_update_name>io_set_item_ad91899293ac53107d67398efaba10ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-16 10:27:44</sys_updated_on><variable_set display_value="project team provisioining variables">2e0eb142c38703504a2adf0d0501312e</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>868446784</payload_hash>
+        <record_name>project team provisioining variables.Copy of Project Team Provisioning</record_name>
+        <reverted_from/>
+        <source>8e7e3456932c53107d67398efaba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:44</sys_created_on>
+        <sys_id>3591c99293ac53107d67398efaba1036</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1e3e6034b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:27:44</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>f191c9928aac53102d7f90eb5300af35</update_guid>
+        <update_guid_history>f191c9928aac53102d7f90eb5300af35:868446784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="project team provisioining variables.Copy of Project Team Provisioning">8bd145d293ac53107d67398efaba1063</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:28:56</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>1a4754c5b6a64501a39aeea816861b59</sys_id>
+        <sys_metadata>ad91899293ac53107d67398efaba10ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>project team provisioining variables.Copy of Project Team Provisioning</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_scope_delete display_value="">5b5a87e9ba6741188a43d18ac2d22529</sys_scope_delete>
+        <sys_update_name>io_set_item_ad91899293ac53107d67398efaba10ff</sys_update_name>
+        <sys_update_version display_value="io_set_item_ad91899293ac53107d67398efaba10ff">3591c99293ac53107d67398efaba1036</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:28:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

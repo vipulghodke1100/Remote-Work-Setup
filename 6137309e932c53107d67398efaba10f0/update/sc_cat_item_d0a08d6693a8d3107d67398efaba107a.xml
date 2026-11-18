@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <cc_render_type>system</cc_render_type>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-01 00:00:00</delivery_time>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; color: #333; max-width: 900px; margin: auto; padding: 20px;">
+<h2 style="color: #245b8f;">Laptop Request</h2>
+<p>Request a company-approved laptop configured to meet your professional and technical requirements. Select the operating system, memory, processor, and optional GPU specifications based on your work needs.</p>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">Available Configurations</h3>
+<h4>1. Operating System (OS)</h4>
+<p>Choose the operating system required for your applications and work environment.</p>
+<ul><li><strong>Windows 11:</strong> General office work and business applications.</li><li><strong>Ubuntu Linux:</strong> Software development and Linux-based workloads.</li><li><strong>macOS:</strong> Apple ecosystem development and specialized applications.</li></ul>
+<h4>2. Memory (RAM)</h4>
+<p>Select the memory capacity according to your workload and multitasking requirements.</p>
+<ul><li><strong>8 GB:</strong> Basic office work and everyday tasks.</li><li><strong>16 GB:</strong> Software development and regular multitasking.</li><li><strong>32 GB:</strong> Virtual machines and resource-intensive workloads.</li></ul>
+<h4>3. Processor (CPU)</h4>
+<p>Choose a processor category suitable for your computing requirements.</p>
+<ul><li><strong>Intel Core i5 / AMD Ryzen 5:</strong> General business tasks.</li><li><strong>Intel Core i7 / AMD Ryzen 7:</strong> Development and advanced multitasking.</li><li><strong>Intel Core i9 / AMD Ryzen 9:</strong> High-performance computing.</li></ul>
+<h4>4. GPU Requirements</h4>
+<p>If your work requires dedicated graphics processing, select the <strong>Need GPU</strong> checkbox to display additional GPU configuration options.</p>
+<ul><li>Choose the required GPU configuration.</li><li>Select specifications according to your application requirements.</li></ul>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">Recommended Configurations</h3>
+<ul><li><strong>General Employee:</strong> 8 GB RAM with Core i5 / Ryzen 5.</li><li><strong>Software Developer:</strong> 16 GB RAM with Core i7 / Ryzen 7.</li><li><strong>Advanced Technical User:</strong> 32 GB RAM with Core i9 / Ryzen 9.</li></ul>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">Important Information</h3>
+<ul><li>Select specifications based on your job responsibilities.</li><li>Provide accurate hardware requirements and business justification.</li><li>All requests are subject to manager approval and IT assessment.</li><li>Final device allocation depends on company policies and hardware availability.</li></ul>
+<p><strong>Note:</strong> The listed configurations are indicative recommendations. Final specifications are subject to IT approval and organizational standards.</p>
+</div>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="RWS_Laptop_Request">972ad92a936cd3107d67398efaba1076</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <legacy>false</legacy>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Laptop Request RWS</name>
+        <no_attachment_v2>true</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_save_as_draft>true</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=d0a08d6693a8d3107d67398efaba107a&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="">500781879320221014d63b953489187e</sc_template>
+        <secondary_owners/>
+        <short_description>Remote work setup Request </short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 05:02:47</sys_created_on>
+        <sys_id>d0a08d6693a8d3107d67398efaba107a</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Laptop Request RWS</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_d0a08d6693a8d3107d67398efaba107a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 06:10:32</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>6</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d0a08d6693a8d3107d67398efaba107a"/>
+    <fx_price action="delete_multiple" query="id=d0a08d6693a8d3107d67398efaba107a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="INR">INR</currency>
+        <field>price</field>
+        <id>d0a08d6693a8d3107d67398efaba107a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 05:02:47</sys_created_on>
+        <sys_id>63c0c12a93a8d3107d67398efaba10ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 05:02:47</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

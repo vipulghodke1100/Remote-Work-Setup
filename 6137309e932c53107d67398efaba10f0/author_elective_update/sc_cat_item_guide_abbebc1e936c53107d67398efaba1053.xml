@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
+    <sc_cat_item_guide action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <cascade>true</cascade>
+        <category/>
+        <cc_render_type>system</cc_render_type>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<div style="font-family: Arial, Helvetica, sans-serif; color: #263445; background-color: #f4f7fb; padding: 24px; border-radius: 10px;">
+<div style="background: linear-gradient(120deg, #123b65, #1676a8); color: white; padding: 35px 30px; border-radius: 10px; margin-bottom: 25px;">
+<div style="font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: #c5e8ff; margin-bottom: 12px;">EMPLOYEE SERVICES</div>
+<h1 style="font-size: 30px; margin: 0 0 15px 0; color: white;">Remote Work Setup</h1>
+<p style="font-size: 16px; line-height: 1.7; max-width: 750px; margin: 0;">Everything you need to work remotely, all in one place. Request your laptop, network access, collaboration tools, workspace equipment, and other essential services through a single, streamlined request.</p>
+<div style="margin-top: 22px;"><span style="background: #ffffff; color: #14527b; padding: 9px 17px; border-radius: 5px; font-weight: bold; font-size: 13px;"> ONE-STOP REMOTE WORK SOLUTION </span></div>
+</div>
+
+<div style="background: white; padding: 24px; border-radius: 9px; margin-bottom: 22px; border: 1px solid #e2e8f0;">
+<h2 style="color: #174d78; font-size: 21px; margin-top: 0;">Welcome to Your Remote Workspace</h2>
+<p style="font-size: 14px; line-height: 1.8; margin-bottom: 0;">Whether you are transitioning to remote work or setting up a home office for the first time, this Order Guide helps you request all the equipment and services required for a productive and secure remote working experience. Select the services you need, provide the required details, and submit your request through one convenient process.</p>
+</div>
+
+<div style="margin-bottom: 22px;">
+<h2 style="font-size: 21px; color: #174d78; margin-bottom: 8px;">What Can You Request?</h2>
+<p style="font-size: 14px; color: #64748b; margin-bottom: 18px;">Choose from the following equipment and services based on your remote working requirements.</p>
+<table style="width: 100%; border-collapse: separate; border-spacing: 10px;"><tbody><tr><td style="width: 50%; background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;">
+<div style="font-size: 27px;">&#x1f4bb;</div>
+<h3 style="font-size: 16px; color: #174d78; margin: 10px 0;">Laptop Request</h3>
+<p style="font-size: 13px; line-height: 1.6; margin: 0;">Request a company-approved laptop with the required hardware specifications and software configuration for your role.</p>
+</td><td style="width: 50%; background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;">
+<div style="font-size: 27px;">&#x1f510;</div>
+<h3 style="font-size: 16px; color: #174d78; margin: 10px 0;">VPN Access</h3>
+<p style="font-size: 13px; line-height: 1.6; margin: 0;">Request secure VPN connectivity to access internal company applications and resources while working remotely.</p>
+</td></tr><tr><td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;">
+<div style="font-size: 27px;">&#x1f4ac;</div>
+<h3 style="font-size: 16px; color: #174d78; margin: 10px 0;">Collaboration Tools</h3>
+<p style="font-size: 13px; line-height: 1.6; margin: 0;">Request access to collaboration platforms such as Microsoft Teams and Zoom for meetings, communication, and teamwork.</p>
+</td><td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;">
+<div style="font-size: 27px;">&#x1f5a5;️</div>
+<h3 style="font-size: 16px; color: #174d78; margin: 10px 0;">Monitor &amp; Docking Station</h3>
+<p style="font-size: 13px; line-height: 1.6; margin: 0;">Improve your productivity with additional display monitors and docking stations for a convenient workstation.</p>
+</td></tr><tr><td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;">
+<div style="font-size: 27px;">&#x1fa91;</div>
+<h3 style="font-size: 16px; color: #174d78; margin: 10px 0;">Ergonomic Accessories</h3>
+<p style="font-size: 13px; line-height: 1.6; margin: 0;">Request ergonomic accessories such as keyboards, mice, laptop stands, and other equipment for a comfortable workspace.</p>
+</td><td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;">
+<div style="font-size: 27px;">&#x1f310;</div>
+<h3 style="font-size: 16px; color: #174d78; margin: 10px 0;">Home Internet Reimbursement</h3>
+<p style="font-size: 13px; line-height: 1.6; margin: 0;">Submit a home internet reimbursement request in accordance with your organization&#39;s applicable reimbursement policy.</p>
+</td></tr></tbody></table>
+</div>
+
+<div style="background: #e8f3fb; padding: 24px; border-radius: 9px; margin-bottom: 22px;">
+<h2 style="font-size: 21px; color: #174d78; margin-top: 0;">Why Use This Order Guide?</h2>
+<div style="margin-bottom: 15px;"><strong style="color: #174d78;">✓ One-Stop Request Experience</strong>
+<p style="font-size: 13px; margin: 5px 0 0 22px; line-height: 1.6;">Request multiple remote work services through one centralized experience instead of submitting individual requests.</p>
+</div>
+<div style="margin-bottom: 15px;"><strong style="color: #174d78;">✓ Faster Employee Enablement</strong>
+<p style="font-size: 13px; margin: 5px 0 0 22px; line-height: 1.6;">Simplify the process of equipping employees with the tools and access needed to work remotely.</p>
+</div>
+<div><strong style="color: #174d78;">✓ Simplified Procurement Process</strong>
+<p style="font-size: 13px; margin: 5px 0 0 22px; line-height: 1.6;">Consolidate equipment and service requests to streamline approvals, fulfillment, and tracking.</p>
+</div>
+</div>
+
+<div style="background: white; padding: 24px; border: 1px solid #e2e8f0; border-radius: 9px; margin-bottom: 22px;">
+<h2 style="font-size: 21px; color: #174d78; margin-top: 0;">How Does It Work?</h2>
+<div style="font-size: 14px; line-height: 2;">
+<p><strong style="color: #1676a8;">01. Select Services</strong><br />Choose the equipment and services you require for your remote workspace.</p>
+<p><strong style="color: #1676a8;">02. Provide Information</strong><br />Enter the necessary details for each selected item, including specifications and business justification where applicable.</p>
+<p><strong style="color: #1676a8;">03. Submit Your Request</strong><br />Review your selections and submit the consolidated order guide request.</p>
+<p><strong style="color: #1676a8;">04. Approval &amp; Fulfillment</strong><br />Your request will be routed to the relevant teams for approval, procurement, and fulfillment.</p>
+<p style="margin-bottom: 0;"><strong style="color: #1676a8;">05. Start Working Remotely</strong><br />Receive the requested equipment and access to get your remote workspace ready.</p>
+</div>
+</div>
+
+<div style="background: #fff8e8; border-left: 4px solid #e5a12b; padding: 20px; border-radius: 6px; margin-bottom: 22px;">
+<h3 style="color: #875b13; margin-top: 0; font-size: 17px;">Important Information</h3>
+<ul style="font-size: 13px; line-height: 1.9; padding-left: 20px; margin-bottom: 0;"><li>Select only the services and equipment you actually require.</li><li>Provide accurate employee and delivery information.</li><li>Ensure that your requests comply with company IT and procurement policies.</li><li>Some items may require manager approval or additional authorization.</li><li>Reimbursements are subject to applicable company policies and eligibility.</li></ul>
+</div>
+
+<div style="background: #123b65; color: white; padding: 22px; text-align: center; border-radius: 9px;">
+<h2 style="font-size: 20px; margin: 0 0 10px 0; color: white;">Your Workspace. Your Way.</h2>
+<p style="font-size: 13px; line-height: 1.6; color: #d8eaf7; margin: 0;">Get everything you need to stay connected, productive, and comfortable while working remotely.</p>
+<p style="font-size: 11px; color: #b8d4e8; margin: 17px 0 0 0;">IT SERVICE MANAGEMENT | EMPLOYEE SELF-SERVICE</p>
+</div>
+</div>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <include_items>true</include_items>
+        <legacy>false</legacy>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Remote Work Setup Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <order_to_cart>false</order_to_cart>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;sysparm_initial=true&amp;sysparm_guide=abbebc1e936c53107d67398efaba1053&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <secondary_owners/>
+        <short_description>Order guide for remote work setup</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:16:41</sys_created_on>
+        <sys_id>abbebc1e936c53107d67398efaba1053</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Remote Work Setup Request</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_guide_abbebc1e936c53107d67398efaba1053</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:30:44</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <two_step>false</two_step>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <validator/>
+        <vendor/>
+        <version>4</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_guide>
+    <sys_translated_text action="DELETE" query="documentkey=abbebc1e936c53107d67398efaba1053"/>
+    <fx_price action="DELETE" query="id=abbebc1e936c53107d67398efaba1053"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="INR">INR</currency>
+        <field>price</field>
+        <id>abbebc1e936c53107d67398efaba1053</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:16:41</sys_created_on>
+        <sys_id>ff0ff45e936c53107d67398efaba1037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:16:41</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</application>
+        <file_path/>
+        <instance_id>9a6acd06fb2857d80c92f633beefdcb6</instance_id>
+        <instance_name>dev483620</instance_name>
+        <merge_base/>
+        <name>sc_cat_item_guide_abbebc1e936c53107d67398efaba1053</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_guide"&gt;&lt;sc_cat_item_guide action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;cascade&gt;true&lt;/cascade&gt;&lt;category/&gt;&lt;cc_render_type&gt;system&lt;/cc_render_type&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;div style="font-family: Arial, Helvetica, sans-serif; color: #263445; background-color: #f4f7fb; padding: 24px; border-radius: 10px;"&gt;
+&lt;div style="background: linear-gradient(120deg, #123b65, #1676a8); color: white; padding: 35px 30px; border-radius: 10px; margin-bottom: 25px;"&gt;
+&lt;div style="font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: #c5e8ff; margin-bottom: 12px;"&gt;EMPLOYEE SERVICES&lt;/div&gt;
+&lt;h1 style="font-size: 30px; margin: 0 0 15px 0; color: white;"&gt;Remote Work Setup&lt;/h1&gt;
+&lt;p style="font-size: 16px; line-height: 1.7; max-width: 750px; margin: 0;"&gt;Everything you need to work remotely, all in one place. Request your laptop, network access, collaboration tools, workspace equipment, and other essential services through a single, streamlined request.&lt;/p&gt;
+&lt;div style="margin-top: 22px;"&gt;&lt;span style="background: #ffffff; color: #14527b; padding: 9px 17px; border-radius: 5px; font-weight: bold; font-size: 13px;"&gt; ONE-STOP REMOTE WORK SOLUTION &lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style="background: white; padding: 24px; border-radius: 9px; margin-bottom: 22px; border: 1px solid #e2e8f0;"&gt;
+&lt;h2 style="color: #174d78; font-size: 21px; margin-top: 0;"&gt;Welcome to Your Remote Workspace&lt;/h2&gt;
+&lt;p style="font-size: 14px; line-height: 1.8; margin-bottom: 0;"&gt;Whether you are transitioning to remote work or setting up a home office for the first time, this Order Guide helps you request all the equipment and services required for a productive and secure remote working experience. Select the services you need, provide the required details, and submit your request through one convenient process.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style="margin-bottom: 22px;"&gt;
+&lt;h2 style="font-size: 21px; color: #174d78; margin-bottom: 8px;"&gt;What Can You Request?&lt;/h2&gt;
+&lt;p style="font-size: 14px; color: #64748b; margin-bottom: 18px;"&gt;Choose from the following equipment and services based on your remote working requirements.&lt;/p&gt;
+&lt;table style="width: 100%; border-collapse: separate; border-spacing: 10px;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="width: 50%; background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;"&gt;
+&lt;div style="font-size: 27px;"&gt;&amp;#x1f4bb;&lt;/div&gt;
+&lt;h3 style="font-size: 16px; color: #174d78; margin: 10px 0;"&gt;Laptop Request&lt;/h3&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; margin: 0;"&gt;Request a company-approved laptop with the required hardware specifications and software configuration for your role.&lt;/p&gt;
+&lt;/td&gt;&lt;td style="width: 50%; background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;"&gt;
+&lt;div style="font-size: 27px;"&gt;&amp;#x1f510;&lt;/div&gt;
+&lt;h3 style="font-size: 16px; color: #174d78; margin: 10px 0;"&gt;VPN Access&lt;/h3&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; margin: 0;"&gt;Request secure VPN connectivity to access internal company applications and resources while working remotely.&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;"&gt;
+&lt;div style="font-size: 27px;"&gt;&amp;#x1f4ac;&lt;/div&gt;
+&lt;h3 style="font-size: 16px; color: #174d78; margin: 10px 0;"&gt;Collaboration Tools&lt;/h3&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; margin: 0;"&gt;Request access to collaboration platforms such as Microsoft Teams and Zoom for meetings, communication, and teamwork.&lt;/p&gt;
+&lt;/td&gt;&lt;td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;"&gt;
+&lt;div style="font-size: 27px;"&gt;&amp;#x1f5a5;️&lt;/div&gt;
+&lt;h3 style="font-size: 16px; color: #174d78; margin: 10px 0;"&gt;Monitor &amp;amp; Docking Station&lt;/h3&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; margin: 0;"&gt;Improve your productivity with additional display monitors and docking stations for a convenient workstation.&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;"&gt;
+&lt;div style="font-size: 27px;"&gt;&amp;#x1fa91;&lt;/div&gt;
+&lt;h3 style="font-size: 16px; color: #174d78; margin: 10px 0;"&gt;Ergonomic Accessories&lt;/h3&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; margin: 0;"&gt;Request ergonomic accessories such as keyboards, mice, laptop stands, and other equipment for a comfortable workspace.&lt;/p&gt;
+&lt;/td&gt;&lt;td style="background: white; padding: 19px; border-radius: 8px; border: 1px solid #e2e8f0; vertical-align: top;"&gt;
+&lt;div style="font-size: 27px;"&gt;&amp;#x1f310;&lt;/div&gt;
+&lt;h3 style="font-size: 16px; color: #174d78; margin: 10px 0;"&gt;Home Internet Reimbursement&lt;/h3&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; margin: 0;"&gt;Submit a home internet reimbursement request in accordance with your organization&amp;#39;s applicable reimbursement policy.&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div style="background: #e8f3fb; padding: 24px; border-radius: 9px; margin-bottom: 22px;"&gt;
+&lt;h2 style="font-size: 21px; color: #174d78; margin-top: 0;"&gt;Why Use This Order Guide?&lt;/h2&gt;
+&lt;div style="margin-bottom: 15px;"&gt;&lt;strong style="color: #174d78;"&gt;✓ One-Stop Request Experience&lt;/strong&gt;
+&lt;p style="font-size: 13px; margin: 5px 0 0 22px; line-height: 1.6;"&gt;Request multiple remote work services through one centralized experience instead of submitting individual requests.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 15px;"&gt;&lt;strong style="color: #174d78;"&gt;✓ Faster Employee Enablement&lt;/strong&gt;
+&lt;p style="font-size: 13px; margin: 5px 0 0 22px; line-height: 1.6;"&gt;Simplify the process of equipping employees with the tools and access needed to work remotely.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;strong style="color: #174d78;"&gt;✓ Simplified Procurement Process&lt;/strong&gt;
+&lt;p style="font-size: 13px; margin: 5px 0 0 22px; line-height: 1.6;"&gt;Consolidate equipment and service requests to streamline approvals, fulfillment, and tracking.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style="background: white; padding: 24px; border: 1px solid #e2e8f0; border-radius: 9px; margin-bottom: 22px;"&gt;
+&lt;h2 style="font-size: 21px; color: #174d78; margin-top: 0;"&gt;How Does It Work?&lt;/h2&gt;
+&lt;div style="font-size: 14px; line-height: 2;"&gt;
+&lt;p&gt;&lt;strong style="color: #1676a8;"&gt;01. Select Services&lt;/strong&gt;&lt;br /&gt;Choose the equipment and services you require for your remote workspace.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="color: #1676a8;"&gt;02. Provide Information&lt;/strong&gt;&lt;br /&gt;Enter the necessary details for each selected item, including specifications and business justification where applicable.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="color: #1676a8;"&gt;03. Submit Your Request&lt;/strong&gt;&lt;br /&gt;Review your selections and submit the consolidated order guide request.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="color: #1676a8;"&gt;04. Approval &amp;amp; Fulfillment&lt;/strong&gt;&lt;br /&gt;Your request will be routed to the relevant teams for approval, procurement, and fulfillment.&lt;/p&gt;
+&lt;p style="margin-bottom: 0;"&gt;&lt;strong style="color: #1676a8;"&gt;05. Start Working Remotely&lt;/strong&gt;&lt;br /&gt;Receive the requested equipment and access to get your remote workspace ready.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style="background: #fff8e8; border-left: 4px solid #e5a12b; padding: 20px; border-radius: 6px; margin-bottom: 22px;"&gt;
+&lt;h3 style="color: #875b13; margin-top: 0; font-size: 17px;"&gt;Important Information&lt;/h3&gt;
+&lt;ul style="font-size: 13px; line-height: 1.9; padding-left: 20px; margin-bottom: 0;"&gt;&lt;li&gt;Select only the services and equipment you actually require.&lt;/li&gt;&lt;li&gt;Provide accurate employee and delivery information.&lt;/li&gt;&lt;li&gt;Ensure that your requests comply with company IT and procurement policies.&lt;/li&gt;&lt;li&gt;Some items may require manager approval or additional authorization.&lt;/li&gt;&lt;li&gt;Reimbursements are subject to applicable company policies and eligibility.&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div style="background: #123b65; color: white; padding: 22px; text-align: center; border-radius: 9px;"&gt;
+&lt;h2 style="font-size: 20px; margin: 0 0 10px 0; color: white;"&gt;Your Workspace. Your Way.&lt;/h2&gt;
+&lt;p style="font-size: 13px; line-height: 1.6; color: #d8eaf7; margin: 0;"&gt;Get everything you need to stay connected, productive, and comfortable while working remotely.&lt;/p&gt;
+&lt;p style="font-size: 11px; color: #b8d4e8; margin: 17px 0 0 0;"&gt;IT SERVICE MANAGEMENT | EMPLOYEE SELF-SERVICE&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;include_items&gt;true&lt;/include_items&gt;&lt;legacy&gt;false&lt;/legacy&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Remote Work Setup Request&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;true&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;order_to_cart&gt;false&lt;/order_to_cart&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;amp;sysparm_initial=true&amp;amp;sysparm_guide=abbebc1e936c53107d67398efaba1053&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;request_method&gt;request&lt;/request_method&gt;&lt;roles/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script/&gt;&lt;secondary_owners/&gt;&lt;short_description&gt;Order guide for remote work setup&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_guide&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-11-16 10:16:41&lt;/sys_created_on&gt;&lt;sys_id&gt;abbebc1e936c53107d67398efaba1053&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Remote Work Setup Request&lt;/sys_name&gt;&lt;sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0"&gt;6137309e932c53107d67398efaba10f0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Remote Work Setup Request "&gt;6137309e932c53107d67398efaba10f0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_guide_abbebc1e936c53107d67398efaba1053&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-11-16 10:30:44&lt;/sys_updated_on&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;two_step&gt;false&lt;/two_step&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;validator/&gt;&lt;vendor/&gt;&lt;version&gt;4&lt;/version&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_guide&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=abbebc1e936c53107d67398efaba1053"/&gt;&lt;fx_price action="delete_multiple" query="id=abbebc1e936c53107d67398efaba1053"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;abbebc1e936c53107d67398efaba1053&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-11-16 10:16:41&lt;/sys_created_on&gt;&lt;sys_id&gt;ff0ff45e936c53107d67398efaba1037&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-11-16 10:16:41&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_guide&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-945907478</payload_hash>
+        <record_name>Remote Work Setup Request</record_name>
+        <reverted_from/>
+        <source>8e7e3456932c53107d67398efaba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:30:44</sys_created_on>
+        <sys_id>7942811693ac53107d67398efaba1077</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1e3e8c33d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:30:44</sys_updated_on>
+        <type>Order guide</type>
+        <update_guid>e5428116b7ac53105e7163ba6ed94376</update_guid>
+        <update_guid_history>e5428116b7ac53105e7163ba6ed94376:-945907478,840009dee56c5310c1a6b0829b7e3486:1232189879,8c1ff45e196c5310137b79faab519467:425416683,b70ff45ebe6c5310bba3fe77252e9063:795094541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Remote Work Setup Request">bd42811693ac53107d67398efaba107f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:30:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide">sc_cat_item_guide</sys_db_object>
+        <sys_id>902d6f2fed1b4ec7ba6768cbdd2f8501</sys_id>
+        <sys_metadata>abbebc1e936c53107d67398efaba1053</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Remote Work Setup Request</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_scope_delete display_value="">5b5a87e9ba6741188a43d18ac2d22529</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_abbebc1e936c53107d67398efaba1053</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_abbebc1e936c53107d67398efaba1053">7942811693ac53107d67398efaba1077</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:30:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

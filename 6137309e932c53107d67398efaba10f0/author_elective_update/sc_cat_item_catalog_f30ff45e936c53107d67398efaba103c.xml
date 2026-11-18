@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Remote Work Setup Request">abbebc1e936c53107d67398efaba1053</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:16:41</sys_created_on>
+        <sys_id>f30ff45e936c53107d67398efaba103c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Remote Work Setup Request</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f30ff45e936c53107d67398efaba103c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:16:41</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</application>
+        <file_path/>
+        <instance_id>9a6acd06fb2857d80c92f633beefdcb6</instance_id>
+        <instance_name>dev483620</instance_name>
+        <merge_base/>
+        <name>sc_cat_item_catalog_f30ff45e936c53107d67398efaba103c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Remote Work Setup Request">abbebc1e936c53107d67398efaba1053</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-16 10:16:41</sys_created_on><sys_id>f30ff45e936c53107d67398efaba103c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Remote Work Setup Request</sys_name><sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package><sys_policy/><sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope><sys_update_name>sc_cat_item_catalog_f30ff45e936c53107d67398efaba103c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-16 10:16:41</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1121756295</payload_hash>
+        <record_name>Service Catalog.Remote Work Setup Request</record_name>
+        <reverted_from/>
+        <source>8e7e3456932c53107d67398efaba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:16:41</sys_created_on>
+        <sys_id>3b0ff45e936c53107d67398efaba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1e3dbe6230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:16:41</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>f70ff45e4f6c5310bab3111bc95b3243</update_guid>
+        <update_guid_history>f70ff45e4f6c5310bab3111bc95b3243:-1121756295</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Remote Work Setup Request">2942811693ac53107d67398efaba1055</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:30:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>002f4320ae404b48800d34e370674311</sys_id>
+        <sys_metadata>f30ff45e936c53107d67398efaba103c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Remote Work Setup Request</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_parent display_value="">abbebc1e936c53107d67398efaba1053</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_scope_delete display_value="">5b5a87e9ba6741188a43d18ac2d22529</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_f30ff45e936c53107d67398efaba103c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_f30ff45e936c53107d67398efaba103c">3b0ff45e936c53107d67398efaba1044</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:30:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

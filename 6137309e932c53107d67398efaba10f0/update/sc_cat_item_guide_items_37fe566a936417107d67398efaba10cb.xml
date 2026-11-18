@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition/>
+        <guide display_value="Remote Work Setup Request">9b910d9293ac53107d67398efaba1063</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Laptop Request RWS">d0a08d6693a8d3107d67398efaba107a</item>
+        <order>100</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 11:54:42</sys_created_on>
+        <sys_id>37fe566a936417107d67398efaba10cb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>d0a08d6693a8d3107d67398efaba107a</sys_name>
+        <sys_package display_value="Remote Work Setup Request " source="x_2315923_remote_0">6137309e932c53107d67398efaba10f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_37fe566a936417107d67398efaba10cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 06:06:06</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Collaboration Tools">88729a72932097107d67398efaba10ce</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-18 05:39:04</sys_created_on>
+        <sys_id>e4b2163a932097107d67398efaba1030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Slack</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>question_choice_e4b2163a932097107d67398efaba1030</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 05:39:04</sys_updated_on>
+        <text>Slack</text>
+        <value>slack</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=e4b2163a932097107d67398efaba1030"/>
+</record_update>

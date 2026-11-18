@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Select Equipments">3a8adaf6936097107d67398efaba1087</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-18 06:16:03</sys_created_on>
+        <sys_id>922b5a7a936097107d67398efaba10fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Docking Station</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>question_choice_922b5a7a936097107d67398efaba10fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 06:16:03</sys_updated_on>
+        <text>Docking Station</text>
+        <value>docking_station</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=922b5a7a936097107d67398efaba10fa"/>
+</record_update>

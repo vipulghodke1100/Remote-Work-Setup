@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
+    <sc_cat_item_guide action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <cascade>true</cascade>
+        <category/>
+        <cc_render_type>system</cc_render_type>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<h1>Project Team Provisioning / Onboarding</h1>
+<hr />
+<h2>Welcome</h2>
+<p>Provision all essential tools, access, and collaboration resources required for a new project team through a single, standardized request. This Order Guide simplifies project onboarding by combining multiple service requests into one submission, ensuring faster delivery and consistent governance.</p>
+<hr />
+<h2>Services Included</h2>
+<ul style="list-style-position: inside;"><li>Project SharePoint Site – Create a dedicated SharePoint site for project documentation and collaboration.</li><li>Jira / Azure DevOps Access – Request project access with the appropriate role for team members.</li><li>Cloud Environment Access – Provision access to AWS, Azure, or GCP environments.</li><li>Database Access – Request secure read/write access to project databases.</li><li>Collaboration Channels – Create Microsoft Teams or Slack channels and add project members.</li><li>Security &amp; Compliance Approvals – Initiate required security reviews and approval workflows.</li></ul>
+<hr />
+<h2>What You&#39;ll Need</h2>
+<p>Before submitting your request, please have the following information available:</p>
+<ul style="list-style-position: inside;"><li>Project Name</li><li>Project Code / ID</li><li>Project Manager</li><li>Business Unit</li><li>Environment (Development, Test, UAT, Production)</li><li>Team Members (if applicable)</li><li>Project Start Date</li><li>Project End Date</li><li>Business Justification</li></ul>
+<hr />
+<h2>Benefits</h2>
+<ul style="list-style-position: inside;"><li>Accelerates project kickoff and team onboarding</li><li>Standardizes project provisioning across the organization</li><li>Captures all required approvals in a single workflow</li><li>Reduces manual effort and duplicate requests</li><li>Improves governance, compliance, and audit readiness</li><li>Provides end-to-end visibility of provisioning status</li></ul>
+<hr />
+<h2>Process Overview</h2>
+<p>Submit Order Guide → Required Approvals → Resource Provisioning → Notifications → Project Team Ready</p>
+<hr />
+<h3>Thank You</h3>
+<p>Thank you for using the Project Team Provisioning / Onboarding Order Guide. Our automated workflows will route your request to the appropriate teams and keep you informed throughout the provisioning process.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <include_items>true</include_items>
+        <legacy>false</legacy>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Copy of Project Team Provisioning</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <order_to_cart>false</order_to_cart>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;sysparm_initial=true&amp;sysparm_guide=e191899293ac53107d67398efaba10c5&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <secondary_owners/>
+        <short_description>Copy of Order guide for new project team to get access to tools and resources</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:43</sys_created_on>
+        <sys_id>e191899293ac53107d67398efaba10c5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Copy of Project Team Provisioning</sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_guide_e191899293ac53107d67398efaba10c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:28:55</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <two_step>false</two_step>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <validator/>
+        <vendor/>
+        <version>22</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_guide>
+    <sys_translated_text action="DELETE" query="documentkey=e191899293ac53107d67398efaba10c5"/>
+    <fx_price action="DELETE" query="id=e191899293ac53107d67398efaba10c5"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>e191899293ac53107d67398efaba10c5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:43</sys_created_on>
+        <sys_id>6191899293ac53107d67398efaba10c7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:27:44</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</application>
+        <file_path/>
+        <instance_id>9a6acd06fb2857d80c92f633beefdcb6</instance_id>
+        <instance_name>dev483620</instance_name>
+        <merge_base/>
+        <name>sc_cat_item_guide_e191899293ac53107d67398efaba10c5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_guide"&gt;&lt;sc_cat_item_guide action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;cascade&gt;true&lt;/cascade&gt;&lt;category/&gt;&lt;cc_render_type&gt;system&lt;/cc_render_type&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;h1&gt;Project Team Provisioning / Onboarding&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Welcome&lt;/h2&gt;
+&lt;p&gt;Provision all essential tools, access, and collaboration resources required for a new project team through a single, standardized request. This Order Guide simplifies project onboarding by combining multiple service requests into one submission, ensuring faster delivery and consistent governance.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Services Included&lt;/h2&gt;
+&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Project SharePoint Site – Create a dedicated SharePoint site for project documentation and collaboration.&lt;/li&gt;&lt;li&gt;Jira / Azure DevOps Access – Request project access with the appropriate role for team members.&lt;/li&gt;&lt;li&gt;Cloud Environment Access – Provision access to AWS, Azure, or GCP environments.&lt;/li&gt;&lt;li&gt;Database Access – Request secure read/write access to project databases.&lt;/li&gt;&lt;li&gt;Collaboration Channels – Create Microsoft Teams or Slack channels and add project members.&lt;/li&gt;&lt;li&gt;Security &amp;amp; Compliance Approvals – Initiate required security reviews and approval workflows.&lt;/li&gt;&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What You&amp;#39;ll Need&lt;/h2&gt;
+&lt;p&gt;Before submitting your request, please have the following information available:&lt;/p&gt;
+&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Project Name&lt;/li&gt;&lt;li&gt;Project Code / ID&lt;/li&gt;&lt;li&gt;Project Manager&lt;/li&gt;&lt;li&gt;Business Unit&lt;/li&gt;&lt;li&gt;Environment (Development, Test, UAT, Production)&lt;/li&gt;&lt;li&gt;Team Members (if applicable)&lt;/li&gt;&lt;li&gt;Project Start Date&lt;/li&gt;&lt;li&gt;Project End Date&lt;/li&gt;&lt;li&gt;Business Justification&lt;/li&gt;&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Benefits&lt;/h2&gt;
+&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Accelerates project kickoff and team onboarding&lt;/li&gt;&lt;li&gt;Standardizes project provisioning across the organization&lt;/li&gt;&lt;li&gt;Captures all required approvals in a single workflow&lt;/li&gt;&lt;li&gt;Reduces manual effort and duplicate requests&lt;/li&gt;&lt;li&gt;Improves governance, compliance, and audit readiness&lt;/li&gt;&lt;li&gt;Provides end-to-end visibility of provisioning status&lt;/li&gt;&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Process Overview&lt;/h2&gt;
+&lt;p&gt;Submit Order Guide → Required Approvals → Resource Provisioning → Notifications → Project Team Ready&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Thank You&lt;/h3&gt;
+&lt;p&gt;Thank you for using the Project Team Provisioning / Onboarding Order Guide. Our automated workflows will route your request to the appropriate teams and keep you informed throughout the provisioning process.&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;include_items&gt;true&lt;/include_items&gt;&lt;legacy&gt;false&lt;/legacy&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Copy of Project Team Provisioning&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;true&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;order_to_cart&gt;false&lt;/order_to_cart&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;amp;sysparm_initial=true&amp;amp;sysparm_guide=e191899293ac53107d67398efaba10c5&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;request_method&gt;request&lt;/request_method&gt;&lt;roles/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script/&gt;&lt;secondary_owners/&gt;&lt;short_description&gt;Copy of Order guide for new project team to get access to tools and resources&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_guide&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-11-16 10:27:43&lt;/sys_created_on&gt;&lt;sys_id&gt;e191899293ac53107d67398efaba10c5&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Copy of Project Team Provisioning&lt;/sys_name&gt;&lt;sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0"&gt;93d56327c32247504a2adf0d05013151&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Remote Work Setup Request "&gt;6137309e932c53107d67398efaba10f0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_guide_e191899293ac53107d67398efaba10c5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-11-16 10:28:55&lt;/sys_updated_on&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;two_step&gt;false&lt;/two_step&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;validator/&gt;&lt;vendor/&gt;&lt;version&gt;22&lt;/version&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_guide&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e191899293ac53107d67398efaba10c5"/&gt;&lt;fx_price action="delete_multiple" query="id=e191899293ac53107d67398efaba10c5"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;e191899293ac53107d67398efaba10c5&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-11-16 10:27:43&lt;/sys_created_on&gt;&lt;sys_id&gt;6191899293ac53107d67398efaba10c7&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-11-16 10:27:44&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_guide&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1006678656</payload_hash>
+        <record_name>Copy of Project Team Provisioning</record_name>
+        <reverted_from/>
+        <source>8e7e3456932c53107d67398efaba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:28:55</sys_created_on>
+        <sys_id>07d145d293ac53107d67398efaba1032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1e3e719e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:28:55</sys_updated_on>
+        <type>Order guide</type>
+        <update_guid>83d145d267ac5310cbcd562cb62ea831</update_guid>
+        <update_guid_history>83d145d267ac5310cbcd562cb62ea831:1006678656,2191c992caac531014e43102f49b0930:483387069,ed91899225ac5310834fdc8b669e86f5:964712743</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Project Team Provisioning">cbd145d293ac53107d67398efaba1053</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:28:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide">sc_cat_item_guide</sys_db_object>
+        <sys_id>007af415bf4c484d96fb756ffe2715b1</sys_id>
+        <sys_metadata>e191899293ac53107d67398efaba10c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Project Team Provisioning</sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_scope_delete display_value="">5b5a87e9ba6741188a43d18ac2d22529</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_e191899293ac53107d67398efaba10c5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_e191899293ac53107d67398efaba10c5">07d145d293ac53107d67398efaba1032</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:28:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

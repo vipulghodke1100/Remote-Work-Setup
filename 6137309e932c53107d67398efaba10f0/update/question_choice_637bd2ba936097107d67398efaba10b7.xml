@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Monitor Size">732bdaf6936097107d67398efaba108b</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-18 06:17:30</sys_created_on>
+        <sys_id>637bd2ba936097107d67398efaba10b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>27 Inch</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>question_choice_637bd2ba936097107d67398efaba10b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 06:17:30</sys_updated_on>
+        <text>27 Inch</text>
+        <value>27_inch</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=637bd2ba936097107d67398efaba10b7"/>
+</record_update>

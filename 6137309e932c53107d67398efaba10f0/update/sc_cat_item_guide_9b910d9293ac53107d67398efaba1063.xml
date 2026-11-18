@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
+    <sc_cat_item_guide action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <cascade>true</cascade>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <cc_render_type>system</cc_render_type>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; color: #333; max-width: 900px; margin: auto; padding: 20px;">
+<h2 style="color: #245b8f;">Remote Work Setup</h2>
+<p>Set up your remote workspace with all the essential equipment, software, and services you need. Use this Order Guide to request multiple services through one convenient process.</p>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">Available Services</h3>
+<h4>1. Laptop Request</h4>
+<p>Request a company-approved laptop configured according to your job responsibilities and technical requirements.</p>
+<ul><li>Select your preferred operating system.</li><li>Choose required RAM and processor specifications.</li><li>Request optional GPU configurations if needed.</li></ul>
+<h4>2. VPN Access</h4>
+<p>Request secure VPN connectivity to access internal company applications and network resources while working remotely.</p>
+<ul><li>Secure access to internal applications.</li><li>Remote connectivity to company resources.</li></ul>
+<h4>3. Collaboration Tools</h4>
+<p>Request access to company-approved collaboration platforms for communication, meetings, and teamwork.</p>
+<ul><li>Microsoft Teams</li><li>Zoom</li><li>Other approved collaboration applications.</li></ul>
+<h4>4. Monitor and Docking Station</h4>
+<p>Request additional workstation equipment to improve productivity and create a comfortable remote working environment.</p>
+<ul><li>External monitors</li><li>Docking stations</li></ul>
+<h4>5. Ergonomic Accessories</h4>
+<p>Request accessories to support a comfortable and productive home workspace.</p>
+<ul><li>Keyboard and mouse</li><li>Laptop stands</li><li>Other approved ergonomic equipment</li></ul>
+<h4>6. Home Internet Reimbursement</h4>
+<p>Submit a request for eligible home internet expenses according to the organization&#39;s reimbursement policy.</p>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">Benefits of This Order Guide</h3>
+<ul><li>Request multiple remote work services in one place.</li><li>Simplify approvals and procurement.</li><li>Save time through a centralized request process.</li><li>Get the equipment and access required for remote work.</li></ul>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">How It Works</h3>
+<ol><li>Select the services you require.</li><li>Provide the necessary details for each selected service.</li><li>Review and submit your request.</li><li>Your request is routed for approval and fulfillment.</li></ol>
+<hr style="border: 0; border-top: 1px solid #ddd;" />
+<h3 style="color: #245b8f;">Important Information</h3>
+<ul><li>Select only the services required for your work.</li><li>Provide accurate employee and request details.</li><li>All requests are subject to company policies and applicable approvals.</li><li>Equipment allocation depends on IT assessment and availability.</li><li>Internet reimbursement is subject to eligibility and company policy.</li></ul>
+<p><strong>Note:</strong> Please ensure that all requested equipment and services are necessary for your job responsibilities.</p>
+</div>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <include_items>true</include_items>
+        <legacy>false</legacy>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Remote Work Setup Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <order_to_cart>false</order_to_cart>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;sysparm_initial=true&amp;sysparm_guide=9b910d9293ac53107d67398efaba1063&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <secondary_owners/>
+        <short_description>Copy of Order guide for new project team to get access to tools and resources</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:51</sys_created_on>
+        <sys_id>9b910d9293ac53107d67398efaba1063</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Remote Work Setup Request</sys_name>
+        <sys_package display_value="Project Team Provisioning " source="x_1956466_projec_0">93d56327c32247504a2adf0d05013151</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>sc_cat_item_guide_9b910d9293ac53107d67398efaba1063</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 06:08:24</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <two_step>false</two_step>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <validator/>
+        <vendor/>
+        <version>36</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_guide>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b910d9293ac53107d67398efaba1063"/>
+    <fx_price action="delete_multiple" query="id=9b910d9293ac53107d67398efaba1063"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>9b910d9293ac53107d67398efaba1063</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 10:27:51</sys_created_on>
+        <sys_id>57910d9293ac53107d67398efaba1065</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 10:27:51</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
