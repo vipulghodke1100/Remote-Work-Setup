@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Argonomic Accessories RWS">4554ae7a93a097107d67398efaba1001</catalog_item>
+        <catalog_variable>IO:c41c727a936497107d67398efaba1056</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-18 08:44:40</sys_created_on>
+        <sys_id>972d7efa936497107d67398efaba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mouse_type</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Remote Work Setup Request ">6137309e932c53107d67398efaba10f0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_972d7efa936497107d67398efaba1099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-18 08:44:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make mouse type visible">400d3e7a936497107d67398efaba1040</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>mouse_type</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=972d7efa936497107d67398efaba1099"/>
+</record_update>
